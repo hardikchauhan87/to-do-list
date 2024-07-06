@@ -1,0 +1,38 @@
+
+.bdy{
+    height: 1000px;
+    width: 100%;
+    margin: auto;
+    background: rgb(61,86,87);
+    background: linear-gradient(0deg, rgba(61,86,87,1) 5%, rgba(28,74,111,1) 100%);
+   
+    text-align: center;
+}
+#box{
+    height: 500px;
+    width: 50%;
+    background-color: rgb(242, 246, 250);
+    margin: auto;
+  
+}
+h1{
+    text-shadow: 2px 2px 8px #FF0000;
+    text-decoration: underline;
+}
+#inptbx{
+    width: 50%;
+    margin: auto;
+}
+#checkbx{
+    background-color: rgb(80, 104, 128);
+    height: 1000px;
+}
+#datashow{
+    margin: auto;
+    text-align: center;
+    width: 80%;
+list-style-type: none;
+font-size: 40px;
+font-weight: 400;
+text-decoration: underline;
+}
